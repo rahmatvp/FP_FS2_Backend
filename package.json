@@ -1,0 +1,22 @@
+{
+  "name": "fp_fs2_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmatvp/FP_FS2_Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmatvp/FP_FS2_Backend/issues"
+  },
+  "homepage": "https://github.com/rahmatvp/FP_FS2_Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
